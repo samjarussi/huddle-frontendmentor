@@ -133,6 +133,7 @@ ul {
     font-family: 'Open Sans', sans-serif;
     position: relative;
     margin-top: 0;
+    float: right;
 }
 
 .button-pink {
@@ -173,4 +174,5 @@ ul {
     height: 40%;
     width: 10%;
     margin-left: 20px;
+    float: left;
 }
