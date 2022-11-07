@@ -10,13 +10,13 @@ body {
 
 div {
     padding: 25px 0 25px 0;
+    margin: 60px 20px 20px 20px;
 }
 
 h1 {
-    margin-left: 20px;
     font-family: 'Poppins', sans-serif;
     line-height: 2;
-
+    position: relative;
 }
 
 h2 {
@@ -60,7 +60,7 @@ ul {
     padding: 30px 0 30px 0;
     margin: 0;
     border: 0;
-    height: 100%;
+    height: 700px;
     width: 100%;
 }
 
@@ -96,10 +96,16 @@ ul {
     border: 0;
 }
 
-.top-pic {
+.top-cloud {
+    position: absolute;
+    position: 0;
+}
+
+.mockup  {
     float: right;
-    margin-right: 15%;
-    margin-top: 10px;
+    width: 500px;
+    height: 400px;
+    margin: 0;
 }
 
 .second-pic {
@@ -172,8 +178,19 @@ ul {
 }
 
 .icon {
-    height: 40%;
-    width: 10%;
+    height: 47px;
+    width: 200px;
     margin-left: 20px;
     float: left;
+}
+
+.intro {
+    width: 500px;
+    height: 350px;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+
+.menu {
+    margin-top: 0;
 }
