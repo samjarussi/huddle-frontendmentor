@@ -65,18 +65,36 @@ ul {
 }
 
 .middle-container {
-    height: 500px;
+    height: 350px;
     width: 75%;
     margin: 100px auto 100px auto;
     text-align: left;
+    border-style: solid;
+    border-color: #dcdcdd;
+    border-radius: 10px;
+    padding: 50px;
 }
 
 .third-container {
-    height: 500px;
+    height: 350px;
+    width: 75%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    border-style: solid;
+    border-color: #dcdcdd;
+    border-radius: 10px;
+    padding: 50px;
 }
 
 .fourth-container {
-    height: 500px;
+    height: 350px;
+    width: 75%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    border-style: solid;
+    border-color: #dcdcdd;
+    border-radius: 10px;
+    padding: 50px;
 }
 
 .bottom-container {
@@ -86,6 +104,9 @@ ul {
     width: 50%;
     margin-left: 25%;
     border: 2px solid #808D99;
+    border-style: solid;
+    border-color: #dcdcdd;
+    border-radius: 10px;
 }
 
 .footer {
@@ -103,9 +124,9 @@ ul {
 
 .mockup  {
     float: right;
-    width: 500px;
+    width: 600px;
     height: 400px;
-    margin: 0;
+    margin: 0 45px auto 0;
 }
 
 .second-pic {
@@ -185,10 +206,12 @@ ul {
 }
 
 .intro {
-    width: 500px;
+    width: 600px;
     height: 350px;
     margin-left: 20px;
     padding-left: 20px;
+    display: inline-block;
+    margin-top: 0;
 }
 
 .menu {
