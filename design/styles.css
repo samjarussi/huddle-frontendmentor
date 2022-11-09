@@ -30,15 +30,6 @@ h3 {
     margin-left: 20px;
 }
 
-hr {
-    border-style: none;
-    border-top-style: dotted;
-    border-color: lightgrey;
-    border-width: 6px;
-    width: 4%;
-    margin: 100px auto;
-}
-
 img {
     height: 300px;
     position: relative;
@@ -46,7 +37,7 @@ img {
 
 p {
     color: #808D99;
-    font-size: 11px;
+    font-size: 18px;
     line-height: 2;
     font-family: 'Open Sans', sans-serif;
 }
@@ -98,7 +89,7 @@ ul {
 }
 
 .bottom-container {
-    position: relative;
+    position: sticky;
     text-align: center;
     height: 100%;
     width: 50%;
@@ -107,14 +98,20 @@ ul {
     border-style: solid;
     border-color: #dcdcdd;
     border-radius: 10px;
+    background-color: white;
 }
 
 .footer {
     font-family: 'Open Sans', sans-serif;
-    height: 300%;
+    height: 300px;
     background-color: #00252E;
     color: lightgray;
     border: 0;
+    margin-top: -75px;
+    padding-left: 275px;
+    padding-top: 100px;
+    text-align: center;
+    line-height: 2;
 }
 
 .top-cloud {
@@ -122,10 +119,10 @@ ul {
     position: 0;
 }
 
-.mockup  {
+.mockup {
     float: right;
-    width: 600px;
-    height: 400px;
+    width: 650px;
+    height: 450px;
     margin: 0 45px auto 0;
 }
 
@@ -136,15 +133,23 @@ ul {
 
 .third-pic {
     float: left;
+    margin: 30px;
 }
 
 .fourth-pic {
     float: right;
+    margin: 20px;
 }
 
 .attribution a {
     color: hsl(228, 45%, 44%);
     text-align: right;
+    font-size: 11px;
+    font-size: small;
+}
+
+.copyright {
+    font-size: 11px;
 }
 
 .button {
@@ -175,16 +180,17 @@ ul {
     font-size: 16px;
     border-radius: 30px;
     font-family: 'Open Sans', sans-serif;
+    margin-top: 20px;
 }
 
 .button:hover {
-    background:lightgray;
+    background: lightgray;
     color: white;
     text-decoration: none;
 }
 
 .button-pink:hover {
-    background:white;
+    background: white;
     color: #FF1493;
     text-decoration: none;
 }
