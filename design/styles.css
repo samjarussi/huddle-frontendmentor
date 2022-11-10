@@ -42,6 +42,10 @@ p {
     font-family: 'Open Sans', sans-serif;
 }
 
+table {
+    text-align: left;
+}
+
 ul {
     list-style-type: none;
 }
@@ -114,6 +118,18 @@ ul {
     line-height: 2;
 }
 
+.footer img {
+    height: 20px;
+    border-style: solid;
+    border-color: lightgray;
+    padding: 5px;
+    border-radius: 50%;
+}
+
+.secondtable {
+    float: right;
+}
+
 .top-cloud {
     position: absolute;
     position: 0;
@@ -141,11 +157,17 @@ ul {
     margin: 20px;
 }
 
-.attribution a {
-    color: hsl(228, 45%, 44%);
+.attribution {
+    color: white;
     text-align: right;
     font-size: 11px;
-    font-size: small;
+    padding-right: 20px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    text-decoration: none;
+    }
 }
 
 .copyright {
