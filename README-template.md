@@ -99,6 +99,8 @@ The next step will be to learn Bootstrap.
 
 - [freeCodeCamp](https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/) and [Coding Master](https://codingmasterweb.com/index.php/2021/06/07/beautiful-landing-page-design-using-html-css/) - These articles helped me understand how to make the Navbar.
 
+- [Vandelay Design](https://www.vandelaydesign.com/turn-any-site-into-a-responsive-site/) - This article, written by Rochester Oliveira, taught me about Responsive Websites.
+
 - [stack overflow](https://stackoverflow.com/) - It was my go-to community whenever I needed to find a solution.
 
 ## Author
