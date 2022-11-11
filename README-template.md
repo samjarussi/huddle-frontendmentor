@@ -50,35 +50,56 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+It was my first time building a website from scratch without guidance; this was the most significant learning.
+It was a wake-up call and an opportunity to review my recent lessons and put them together.
 
-To see how you can add code snippets, see below:
+I've learned how to play with divs, a little bit more about hover effects, and some other elements, such as display, position, float, margin, padding and border-radius.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+The main challenges were creating the nav bar, using float, and aligning inline-block elements.
+
+Once I had almost finished the website, I had to learn from scratch Responsive Design.
+
+Some code snippets below:
+
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.button {
+    background-color: white;
+    border: none;
+    color: #808D99;
+    padding: 15px 32px;
+    margin-top: 0;
+    margin-right: 5%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    float: right;
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+```css
+.button-pink:hover {
+    background: white;
+    color: #FF1493;
+    text-decoration: none;
+}
+```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+It is still not automatic to build a website from scratch to me. I will build a second one right after this to keep learning it and ensure that some things will become intuitive and natural.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+The next step will be to learn Bootstrap.
+
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [freeCodeCamp](https://www.freecodecamp.org/news/how-to-make-a-landing-page-with-html-css-and-javascript/) and [Coding Master](https://codingmasterweb.com/index.php/2021/06/07/beautiful-landing-page-design-using-html-css/) - These articles helped me understand how to make the Navbar.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [stack overflow](https://stackoverflow.com/) - It was my go-to community whenever I needed to find a solution.
 
 ## Author
 
@@ -88,4 +109,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-Credits to Thibault Pensec who helped me to visualize the website building, and taught me how to write the website down on a piece of paper before starting to code it.
+Credits to Thibault Pensec, who helped me visualize the website building and taught me how to write the website down on a piece of paper before starting to code it.# Frontend Mentor - Huddle landing page with alternating feature blocks solution
