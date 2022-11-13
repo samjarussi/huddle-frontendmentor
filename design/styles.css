@@ -118,7 +118,7 @@ ul {
     line-height: 2;
 }
 
-.footer img {
+.iconsright {
     height: 20px;
     border-style: solid;
     border-color: lightgray;
@@ -237,4 +237,16 @@ ul {
 
 .menu {
     margin-top: 0;
+}
+
+.logoloc {
+    height: 13px;
+    width: 13px;
+    border-style: none;
+}
+
+.iconfooter {
+    margin-left: 0;
+    color: white;
+    height: 47px;    
 }
