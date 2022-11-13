@@ -101,6 +101,10 @@ The next step will be to learn Bootstrap.
 
 - [Vandelay Design](https://www.vandelaydesign.com/turn-any-site-into-a-responsive-site/) - This article, written by Rochester Oliveira, taught me about Responsive Websites.
 
+- [1keydata](https://www.1keydata.com/blog/converting-to-responsive-design-with-css.html) - This article gave me the first steps to starting turning my website to a Responsive Design.
+
+- [Web Dev Simplified on Youtube](https://www.youtube.com/watch?v=yU7jJ3NbPdA) - Explains CSS Media Query.
+
 - [stack overflow](https://stackoverflow.com/) - It was my go-to community whenever I needed to find a solution.
 
 ## Author
