@@ -126,6 +126,10 @@ ul {
     border-radius: 50%;
 }
 
+.iconsright:hover {
+    background-color: #FF1493;
+}
+
 .top-cloud {
     position: absolute;
     position: 0;
@@ -246,7 +250,11 @@ ul {
 }
 
 .iconfooter {
-    margin-left: 0;
+    height: 25px;
+    position:inherit; 
     color: white;
-    height: 47px;    
+}
+
+.iconfooternone {
+    display: none;
 }

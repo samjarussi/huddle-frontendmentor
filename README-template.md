@@ -91,6 +91,7 @@ Some code snippets below:
 ### Continued development
 
 It is still not automatic to build a website from scratch to me. I will build a second one right after this to keep learning it and ensure that some things will become intuitive and natural.
+I couldn't do the right hover on images, and I couldn't change the logo's colour in svg using CSS, so that's something I will have to learn.
 
 The next step will be to learn Bootstrap.
 
